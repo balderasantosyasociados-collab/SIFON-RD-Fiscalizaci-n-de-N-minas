@@ -1,0 +1,6 @@
+{
+  "name": "SIFON-RD · Auditoría de Nóminas CCRD",
+  "description": "Sistema de fiscalización de nóminas gubernamentales para la Cámara de Cuentas de la República Dominicana conforme a leyes vigentes, NOBACI, Ley 172-13 y cifrado E2EE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
